@@ -1,0 +1,7 @@
+{
+  "name": "davip1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
